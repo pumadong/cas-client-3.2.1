@@ -1,0 +1,1 @@
+Welcome,this is main.ftl.
